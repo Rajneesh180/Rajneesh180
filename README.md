@@ -1,11 +1,9 @@
+![logo](https://github.com/Rajneesh180/Rajneesh180/blob/main/nasa-Q1p7bh3SHj8-unsplash.jpg)
 <h1 align="center">Hey there! 👋, I'm Rajneesh ⚡ Crafting Scalable Apps & Solving DSA with Coffee ☕</h1>
 <h3 align="center">👨‍💻 SDE Intern @AlgoU | 📊 Quant @Zelta Labs | 🤖 Amazon ML Scholar | 🎓 IIIT'26</h3>
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneesh180&label=Profile%20views&color=0e75b6&style=flat" alt="rajneesh180" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajneesh180" alt="rajneesh180" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajneesh180" target="blank"><img src="https://img.shields.io/twitter/follow/rajneesh180?logo=twitter&style=for-the-badge" alt="rajneesh180" /></a> </p>
 
@@ -27,10 +25,6 @@
 
 - ⚡ Fun fact **I’m the kind of person who can turn even the most ordinary day💥 into an epic adventure. 🛒 Waiting in line? Quest time! Taking a walk? 🌍 Exploring! Every moment is a new discovery! 🔍✨**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajneesh180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajneesh180" height="30" width="40" /></a>
@@ -47,33 +41,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rajneesh_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajneesh_" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajneesh180&show_icons=true&locale=en&layout=compact" alt="rajneesh180" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajneesh180&show_icons=true&locale=en" alt="rajneesh180" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajneesh180&" alt="rajneesh180" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
