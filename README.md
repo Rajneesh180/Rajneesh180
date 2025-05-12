@@ -1,4 +1,4 @@
-![logo](https://github.com/Rajneesh180/Rajneesh180/blob/main/nasa-Q1p7bh3SHj8-unsplash.jpg)
+![logo](https://github.com/Rajneesh180/Rajneesh180/blob/main/asa-Q1p7bh3SHj8-unsplash.jpg)
 <h1 align="center">Hey there! 👋, I'm Rajneesh ⚡ Crafting Scalable Apps & Solving DSA with Coffee ☕</h1>
 <h3 align="center">👨‍💻 SDE Intern @AlgoU | 📊 Quant @Zelta Labs | 🤖 Amazon ML Scholar | 🎓 IIIT'26</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
