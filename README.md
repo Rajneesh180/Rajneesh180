@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **rajneeshrehsaan48@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14AEZHpiSd9SfHIXssW6FfmlP6VesFIX_/view?usp=sharing](https://drive.google.com/file/d/14AEZHpiSd9SfHIXssW6FfmlP6VesFIX_/view?usp=sharing)
-
 - ⚡ Fun fact **I’m the kind of person who can turn even the most ordinary day💥 into an epic adventure. 🛒 Waiting in line? Quest time! Taking a walk? 🌍 Exploring! Every moment is a new discovery! 🔍✨**
 
 <h3 align="left">Connect with me:</h3>
