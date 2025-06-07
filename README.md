@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **💻 full-stack or 🤖 ML-based projects that solve real-world problems and create impact.🤝**
 
-- 👨‍💻 LinkedIn: [https://www.linkedin.com/in/rajneesh-chaudhary-37632a1b7/](https://www.linkedin.com/in/rajneesh-chaudhary-37632a1b7/)
+- 👨‍💻 LinkedIn: 
 
-- 📝 I regularly write articles on [https://medium.com/@rajneeshrehsaan48](https://medium.com/@rajneeshrehsaan48)
+- 📝 I regularly write articles on
 
 - 💬 Ask me about **💬 JavaScript, ⚛️ React, 🖥️ Node.js, 🍃 MongoDB, 📊 DSA, or scaling web apps with 🐳 Docker & ☁️ AWS.**
 
-- 📫 How to reach me **rajneeshrehsaan48@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I’m the kind of person who can turn even the most ordinary day💥 into an epic adventure. 🛒 Waiting in line? Quest time! Taking a walk? 🌍 Exploring! Every moment is a new discovery! 🔍✨**
 
