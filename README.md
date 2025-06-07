@@ -22,15 +22,7 @@
 
 - ⚡ Fun fact **I’m the kind of person who can turn even the most ordinary day💥 into an epic adventure. 🛒 Waiting in line? Quest time! Taking a walk? 🌍 Exploring! Every moment is a new discovery! 🔍✨**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajneesh180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajneesh180" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajneesh-chaudhary-37632a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajneesh-chaudhary-37632a1b7" height="30" width="40" /></a>
-<a href="https://instagram.com/rajneesh_48_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajneesh_48_" height="30" width="40" /></a>
-<a href="https://medium.com/@rajneeshrehsaan48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajneeshrehsaan48" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rehsaan90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehsaan90" height="30" width="40" /></a>
-<a href="https://discord.gg/.rehsaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".rehsaan" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
