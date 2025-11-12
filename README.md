@@ -101,83 +101,64 @@ When I’m not coding, I’m usually:
 
 ### ⚙️ Technical Skills (Visual Overview)
 
+<p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <strong>Languages</strong><br/>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+</p>
 
-  <br/><br/>
-  <strong>Frontend</strong><br/>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+</p>
 
-  <br/><br/>
-  <strong>Backend & Cloud</strong><br/>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" width="40" height="40"/></a>
+<p align="center"><strong>Backend & Cloud</strong></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" width="40" height="40"/>
+</p>
 
-  <br/><br/>
-  <strong>Databases</strong><br/>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
+<p align="center"><strong>Databases</strong></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+</p>
 
-  <br/><br/>
-  <strong>Machine Learning</strong><br/>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
+<p align="center"><strong>Machine Learning</strong></p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 Rich, Accurate GitHub Stats
-
-<!-- 1) Ultra-detailed Metrics (auto-discovers highlights: languages, PRs, reviews, stars, followers, etc.) -->
+<!-- Minimal, high-signal stats (no title) -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/rajneesh180?template=classic&base.indepth=true&base.hireable=true&config.timezone=Asia%2FKolkata&isocalendar=1&languages=1&repositories=1&followup=1&stars=1&habits=1&achievements=1&notable=1" alt="lowlighter/metrics for rajneesh180"/>
+  <!-- Comprehensive profile metrics -->
+  <img src="https://metrics.lecoq.io/rajneesh180?template=classic&base.indepth=true&config.timezone=Asia%2FKolkata&isocalendar=1&languages=1&followup=1&stars=1&achievements=1&notable=1" alt="Profile Metrics"/>
 </p>
 
-<!-- 2) Trophies (achievements-style showcase) -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajneesh180&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Profile Trophies"/>
-  </a>
-</p>
-
-<!-- 3) Contribution Streak -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=rajneesh180&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<!-- 4) Activity Graph (last 31 days contributions by repo/time) -->
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajneesh180&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-  </a>
-</p>
-
-<!-- 5) Classic Stats (for quick glance) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajneesh180&show_icons=true&rank_icon=percentile&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneesh180&layout=compact&langs_count=10&theme=radical" alt="Top Languages"/>
+  <!-- Clean contribution streak -->
+  <img src="https://streak-stats.demolab.com?user=rajneesh180&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/rajneesh180"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/rajneesh-chaudhary-37632a1b7"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://medium.com/@rajneeshrehsaan48"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
@@ -189,9 +170,9 @@ When I’m not coding, I’m usually:
 ---
 
 ### ☕ Support My Work
-<p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/rajneesh_"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee"/>
   </a>
 </p>
 
