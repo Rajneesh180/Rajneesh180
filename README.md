@@ -1,19 +1,41 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://github.com/Rajneesh180/Rajneesh180/blob/main/asa-Q1p7bh3SHj8-unsplash.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rajneesh180/Rajneesh180/main/asa-Q1p7bh3SHj8-unsplash.jpg" width="100%" />
 </p>
 
-<!-- ===================== NAME + TYPING ANIMATION ===================== -->
-<h1 align="center">Rajneesh Chaudhary</h1>
+<!-- ===================== GREETING ===================== -->
+<h1 align="center">
+  Hey there 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome!
+</h1>
 
+<!-- ===================== MAIN CODING GIF ===================== -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=750&lines=Backend+%26+Distributed+Systems+Engineer;ML+%2F+GenAI+Systems+Builder;System+Design+%7C+Cloud+Infrastructure;1145%2B+LeetCode+%7C+CF+Expert+1850"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
+<!-- ===================== NAME ===================== -->
+<h1 align="center">Rajneesh Chaudhary 🚀</h1>
+
+<!-- ===================== EDUCATION TAG ===================== -->
 <p align="center">
-Backend • Distributed Systems • Cloud • ML/GenAI • Competitive Programming
+  <b>IIITM • CS • Grad ’26</b>
 </p>
 
+<!-- ===================== TYPING ANIMATION ===================== -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=750&lines=Backend+%26+Distributed+Systems+Engineer;ML+%2F+GenAI+Systems+Builder;System+Design+%7C+Cloud+Infrastructure;1145%2B+LeetCode+%7C+CF+Expert+1850" 
+  />
+</p>
+
+<!-- ===================== CORE TAGLINE ===================== -->
+<p align="center">
+Backend Engineering • Distributed Systems • Cloud Infrastructure • ML/GenAI • Competitive Programmer
+</p>
+
+<!-- ===================== PROFILE VIEWS ===================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajneesh180&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -39,89 +61,119 @@ My approach blends **algorithmic rigor + system design thinking + cloud-native e
 
 ## 💼 Professional Experience
 
-### Software Development Engineer Intern — AlgoUniversity (YC-Backed)
-**May 2025 – Aug 2025 | Remote**
+### <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ycombinator.svg" width="18"> Software Development Engineer Intern — **AlgoUniversity (YC-Backed)**
+**May 2025 – Aug 2025 | Remote**  
+**Tech Stack:** Node.js • Redis • gRPC • Docker • BullMQ • Terraform • GitHub Actions • OAuth2 • JWT
 
-- Architected a **Distributed Online Judge** serving **~500 real users** with **110 peak concurrency**
-- Designed **event-driven pipelines** using **Redis Streams + gRPC** → **5× throughput increase**
-- Built **Docker-isolated execution microservice** with BullMQ queues & resource sandboxing
-- Implemented **JWT/OAuth2 + RBAC**, caching strategies, and autoscaling policies
-- Provisioned infra using **Terraform + GitHub Actions** enabling zero-downtime CI/CD
-- Emphasis on **idempotency, stateless services, and horizontal scaling**
-
----
-
-### McKinsey & Company — Forward Leadership Program
-**Aug 2025 – Present | Remote**
-
-- Structured analytical pipelines and decision frameworks
-- Applied **MECE & hypothesis-driven engineering models**
-- Built dashboards and automation workflows using **Python + BI tools**
+- **Architected a Distributed Online Judge Platform** serving **~500 active users** with **110 peak concurrent executions**
+- Engineered **event-driven evaluation pipelines** using **Redis Streams + gRPC**, achieving **~5× throughput improvement**
+- Developed **Docker-isolated code-execution microservice** with **BullMQ queues**, CPU/memory sandboxing, and failure isolation
+- Implemented **JWT/OAuth2 authentication, RBAC authorization, and multi-layer caching** to reduce latency and unauthorized access vectors
+- Automated **infrastructure provisioning & CI/CD pipelines** via **Terraform + GitHub Actions**, enabling **zero-downtime deployments**
+- Enforced **stateless service design, idempotent job handling, and horizontal scalability patterns** for high availability under concurrency
 
 ---
 
-## 🚀 Flagship Projects
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3e2.svg" width="18"> McKinsey & Company — **Forward Leadership Program**
+**Aug 2025 – Present | Remote**  
+**Focus Areas:** Analytics • Decision Frameworks • Automation • Business Intelligence
+
+- Designed **structured analytical pipelines and decision frameworks** for complex problem-solving scenarios
+- Applied **MECE principles and hypothesis-driven engineering models** to decompose ambiguous systems and optimize solution paths
+- Built **data dashboards and automation workflows** using **Python + BI tools**, improving reporting clarity and operational efficiency
+- Strengthened **stakeholder communication, strategic thinking, and cross-functional collaboration** in distributed team environments
+
+
+---
+
+## 🚀 Flagship Projects <img src="https://media.giphy.com/media/IgGcxqawkRc6y43Z6I/giphy.gif" width="22">
 
 ### ⚡ Premium Online Judge  
-**Repo:** https://github.com/Rajneesh180/Premium-Online-Judge
+**Repository:** https://github.com/Rajneesh180/Premium-Online-Judge  
 
-A full-stack, production-grade coding platform inspired by LeetCode/Codeforces.
+A **production-grade full-stack coding platform** inspired by LeetCode / Codeforces, engineered for **concurrent code execution, real-time analytics, and scalable contest infrastructure**.
 
-**System Highlights**
-- Dockerized compiler microservice
-- BullMQ async job queues
-- JWT Authentication + RBAC
-- Live contests, leaderboards, analytics
-- ~500 users | 110 peak concurrent sessions
+**Scale & Impact**
+- **~500 real users** • **110 peak concurrent sessions**
+- Handles parallel submissions with isolated execution environments
 
-**Stack:** React • Node.js • MongoDB • Redis • Docker • AWS • Tailwind
+**Core Architecture & Capabilities**
+- **Docker-isolated compiler microservice** for secure sandboxed execution
+- **BullMQ asynchronous job queues** with retry logic and failure isolation
+- **JWT Authentication + RBAC authorization layers**
+- **Live contests, leaderboards, submission analytics & rating system**
+- **Caching + stateless service design** enabling horizontal scalability
 
----
-
-### ⚙️ Event-Driven API Health Monitoring & Reliability Platform  
-**Repo:** https://github.com/Rajneesh180/Event-Driven-API-Reliability
-
-Self-hosted reliability platform focusing on **resilience and automation.**
-
-**System Highlights**
-- Queue-based worker architecture
-- Retry & cooldown logic
-- Idempotent alerting
-- Terraform-provisioned AWS infra
-- Observability-first logging & metrics
-
-**Stack:** Terraform • AWS SQS • DynamoDB • Docker • Microservices
+**Tech Stack:** React • Node.js • MongoDB • Redis • Docker • AWS • Tailwind CSS
 
 ---
 
-### 🤖 GestureTalk — Sign Language Recognition  
-**Repo:** https://github.com/Rajneesh180/GestureTalk
+### ⚙️ Event-Driven API Health Monitoring & Reliability Platform <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
 
-Real-time ML inference platform with **TensorFlow + OpenCV + NLP gesture-to-speech conversion.**
+**Repository:** https://github.com/Rajneesh180/Event-Driven-API-Reliability  
 
----
+A **self-hosted reliability and observability platform** engineered for **fault-tolerant API monitoring, automated recovery workflows, and infrastructure-as-code deployment**.
 
-## 🏆 Achievements & Competitive Programming
+**Scale & Impact**
+- Designed for **high-availability monitoring** across distributed service endpoints
+- Enables **automated retries and alerting** without manual intervention
 
-- **1145+ Problems Solved — LeetCode**  
-  `81% Acceptance • 365-Day Badge • 99%+ Beats`
-- **Codeforces Expert — Max Rating 1850**
-- **Flipkart GRiD Hackathon — Reached Level 3 / Cleared 2 Rounds**
-- **Amazon London Online Assessment — Cleared | Awaiting Interview**
-- **Top 0.5% Performer — AlgoUniversity Programming Camp**
+**Core Architecture & Capabilities**
+- **Queue-based worker microservices** enabling asynchronous health checks
+- **Retry, backoff, and cooldown logic** to prevent alert storms
+- **Idempotent alerting pipelines** ensuring duplicate-safe notifications
+- **Terraform-provisioned AWS infrastructure** (SQS, DynamoDB, IAM, VPC)
+- **Observability-first design** with structured logging, metrics, and tracing hooks
 
----
-
-## ✍️ Technical Writing & Knowledge Sharing
-
-- Published articles on **System Design, Advanced DSA, SOLID Principles**
-- Multiple posts exceeding **500+ reads**
-- Focus on **visual intuition + real-world engineering analogies**
-- Topics include **Binary Trees, Graphs, Load Balancers, Caching, Distributed Systems**
+**Tech Stack:** Terraform • AWS SQS • DynamoDB • Docker • Microservices • Node.js
 
 ---
 
-## ⚙️ Technical Skills
+### 🤖 GestureTalk — Sign Language Recognition <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
+
+**Repository:** https://github.com/Rajneesh180/GestureTalk  
+
+A **real-time machine learning inference platform** enabling **sign-language-to-text and gesture-to-speech conversion** using computer vision and NLP pipelines.
+
+**Scale & Impact**
+- Achieved **~97% gesture recognition accuracy** across curated ASL datasets
+- Designed for **low-latency inference** suitable for live webcam streams
+
+**Core Architecture & Capabilities**
+- **TensorFlow-based CNN models** for real-time gesture classification
+- **OpenCV video processing pipeline** with frame normalization and landmark extraction
+- **NLP-enhanced text-to-speech conversion** for contextual phrase generation
+- **WebRTC streaming + Redis message buffering** for low-latency communication
+- Modular inference pipeline supporting **model retraining and dataset expansion**
+
+**Tech Stack:** TensorFlow • OpenCV • Python • Flask • WebRTC • Redis • NLP
+
+---
+
+## 🏆 Achievements & Competitive Programming <img src="https://media.giphy.com/media/IgGcxqawkRc6y43Z6I/giphy.gif" width="20">
+
+- **LeetCode — 1145+ Problems Solved**  
+  `81% Acceptance • 365-Day Consistency Badge • 99%+ Performance Percentile`
+- **Codeforces — Expert Tier | Max Rating: 1850**
+- **Flipkart GRiD Hackathon — Advanced to Level 3 (Cleared 2 Coding Rounds)**
+- **Amazon London Online Assessment — Qualified | Awaiting Interview**
+- **Top 0.5% Performer — AlgoUniversity National Programming Camp**
+
+
+---
+
+## ✍️ Technical Writing & Knowledge Sharing <img src="https://media.giphy.com/media/IgGcxqawkRc6y43Z6I/giphy.gif" width="18">
+
+- Authored in-depth articles on **System Design, Advanced DSA, and SOLID Principles**
+- Multiple publications exceeding **500+ reads**, with sustained reader engagement
+- Emphasis on **visual intuition, diagrams, and real-world engineering analogies**
+- Covered topics include **Binary Trees, Graph Algorithms, Load Balancers, Caching Strategies, and Distributed Systems**
+- Goal: **translate complex architectures into practical, developer-friendly insights**
+
+
+---
+
+## ⚙️ Technical Skills <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="22">
 
 ### Languages
 <p align="center">
