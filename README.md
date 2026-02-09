@@ -179,9 +179,19 @@ Real-time ML inference platform with **TensorFlow + OpenCV + NLP gesture-to-spee
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
-![snake gif](https://github.com/rajneesh180/rajneesh180/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <!-- Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajneesh180/Rajneesh180/output/github-contribution-grid-snake-dark.svg">
+    <!-- Light Mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajneesh180/Rajneesh180/output/github-contribution-grid-snake.svg">
+    <!-- Fallback -->
+    <img width="100%" src="https://raw.githubusercontent.com/Rajneesh180/Rajneesh180/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 
 ---
 
