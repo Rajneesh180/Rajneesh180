@@ -208,21 +208,14 @@ My work spans production Kubernetes deployments, merged CNCF contributions, and 
 
 ## 📊 GitHub Analytics
 
-<!-- Live stats — all pulled from GitHub API in real time -->
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajneesh180&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/>
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneesh180&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<!-- Live streak -->
+<!-- Live streak (demolab — stable) -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rajneesh180&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
-<!-- Live profile summary cards — commits by language, productive time, repo breakdown -->
+<!-- Live profile summary cards (all 4 panels — stable, covers stars/commits/PRs/languages/productive time) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajneesh180&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajneesh180&theme=tokyonight" width="100%"/>
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajneesh180&theme=tokyonight"/>
@@ -234,14 +227,9 @@ My work spans production Kubernetes deployments, merged CNCF contributions, and 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajneesh180&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
-<!-- Live activity graph -->
+<!-- Live contribution activity graph (stable) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajneesh180&bg_color=1a1b27&color=00B4D8&line=0e75b6&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity" width="100%"/>
-</p>
-
-<!-- Live trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajneesh180&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </p>
 
 ---
