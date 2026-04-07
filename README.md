@@ -36,8 +36,6 @@
   <a href="https://medium.com/@rajneeshrehsaan48">
     <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-SDE%20Roles%20%E2%80%94%20Jul%202026-00b4d8?style=flat-square"/>
 </p>
 
 ---
