@@ -1,278 +1,132 @@
-<!-- ══════════════════════════════════════════════════════════ HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00B4D8&height=120&section=header&animation=fadeIn" width="100%"/>
+<!-- ════════════════════════════════════════════════════════════════════════
+     BANNER — the one signature element. Your NASA photo (kept in the repo as
+     nasa-Q1p7bh3SHj8-unsplash.jpg), cropped to a slim letterbox and compressed
+     to WebP on the fly via images.weserv.nl (862 KB source → ~60 KB delivered).
+     The original file is untouched and remains the single source.
+       • shift the crop: a=attention → a=top / a=middle / a=bottom
+       • if it ever fails to load: change "url=ssl:raw" to "url=raw"
+═════════════════════════════════════════════════════════════════════════════ -->
+<img alt="Earth at night, photographed from orbit"
+     src="https://images.weserv.nl/?url=ssl:raw.githubusercontent.com/Rajneesh180/Rajneesh180/main/nasa-Q1p7bh3SHj8-unsplash.jpg&w=1500&h=300&fit=cover&a=attention&output=webp&q=82"
+     width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════ BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rajneesh180/Rajneesh180/main/asa-Q1p7bh3SHj8-unsplash.jpg" width="100%" style="border-radius:12px"/>
-</p>
+# Rajneesh Chaudhary
 
-<!-- ══════════════════════════════════════════════════════════ GREETING -->
-<h1 align="center">
-  Hey, I'm Rajneesh&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-</h1>
+**Backend & Distributed Systems Engineer** &nbsp;·&nbsp; CNCF contributor — Kubernetes, OpenTelemetry, Jaeger
 
-<p align="center">
-  <b>ABV-IIITM Gwalior &nbsp;·&nbsp; Information Technology &nbsp;·&nbsp; Class of '26</b>
-</p>
+Final-year IT @ ABV-IIITM Gwalior. I build Kubernetes-native services and cloud-native observability tooling — the kind of infrastructure that has to hold up in production.
 
-<!-- ══════════════════════════════════════════════════════════ TYPING SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=780&lines=Backend+%26+Distributed+Systems+Engineer;CNCF+Open+Source+Contributor+(Jaeger+%7C+OTel+%7C+Kubernetes);LeetCode+Knight+%7C+1200%2B+Solved+%7C+365-Day+Streak;ML+%2F+GenAI+Systems+Builder+%7C+McKinsey+Forward+Fellow" />
-</p>
-
-<!-- ══════════════════════════════════════════════════════════ BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajneesh180&label=Profile+Views&color=0e75b6&style=flat-square"/>
-  &nbsp;
-  <a href="https://linkedin.com/in/rajneesh-chaudhary-37632a1b7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/rehsaan90">
-    <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@rajneeshrehsaan48">
-    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white"/>
-  </a>
-</p>
+[![Open to roles](https://img.shields.io/badge/Open%20to-SDE%20%2F%20Infra%20Roles%202026-2ea44f?style=flat-square)](#)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajneesh-chaudhary-37632a1b7)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/rehsaan90)
+&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-0d1117?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rajneeshrehsaan48)
 
 ---
 
-## 🧠 About Me
+## Focus
 
-Software engineer focused on **scalable backend systems, distributed infrastructure, and cloud-native observability** — not just features.  
-My work spans production Kubernetes deployments, merged CNCF contributions, and full-stack GenAI pipelines.
+- **Distributed systems & infra** — Kubernetes-native services, sandboxed execution, throughput under load
+- **Cloud-native observability** — tracing internals and collector pipelines (OpenTelemetry, Jaeger)
+- **GenAI systems** — retrieval and RAG pipelines built to real latency budgets
 
-```text
-🌐  CNCF Contributor   Jaeger · OpenTelemetry · Kubernetes  (PRs merged into K8s v1.36)
-🏢  SDE Intern         AlgoUniversity (YC S21)  ·  Kubernetes · Redis · Docker · AWS
-🎓  B.Tech Thesis      UAV obstacle-aware path planning via Deep RL (D3QN / PPO)
-🏆  McKinsey Fellow    Forward Leadership Program
-⚡  CP                 LeetCode Knight · 1200+ solved · 88% acceptance · 365-day streak
-```
+## Open Source — CNCF
 
----
+Merged contributions to Kubernetes, OpenTelemetry, and Jaeger — work that ships in production across cloud-native deployments.
 
-## 🌐 Open Source · CNCF Contributions
-
-> Code I've written runs in production across thousands of cloud-native deployments globally.
-
-<!-- Live org avatars — pulls directly from GitHub -->
-<p align="center">
-  <a href="https://github.com/jaegertracing">
-    <img src="https://avatars.githubusercontent.com/jaegertracing" width="52" style="border-radius:50%;border:2px solid #60D394" title="Jaeger"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/open-telemetry">
-    <img src="https://avatars.githubusercontent.com/open-telemetry" width="52" style="border-radius:50%;border:2px solid #425CC7" title="OpenTelemetry"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/kubernetes">
-    <img src="https://avatars.githubusercontent.com/kubernetes" width="52" style="border-radius:50%;border:2px solid #326CE5" title="Kubernetes"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/cncf">
-    <img src="https://avatars.githubusercontent.com/cncf" width="52" style="border-radius:50%;border:2px solid #00B4D8" title="CNCF"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jaeger-Contributor-60D394?style=flat-square&logo=jaeger&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenTelemetry-Contributor-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-v1.36%20Contributor-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</p>
-
-| Project | PR | What It Does |
+| Project | PR | Contribution |
 |---|---|---|
-| **Kubernetes** | [`#137398`](https://github.com/kubernetes/kubernetes/pull/137398) | Goroutine hot-loop fix merged into **K8s v1.36** — `client-go` StartEventWatcher |
-| **Kubernetes** | [`#137999`](https://github.com/kubernetes/kubernetes/pull/137999) | Fixed kubelet cgroup resize nil-pointer panic |
-| **OpenTelemetry** | [`#46506`](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/46506) | AST constant folding for pure OTTL functions — parse-time compiler optimisation, eliminates redundant per-datapoint evaluation in collector hot path |
-| **Jaeger** | multiple | MaxTraceSize OOM safeguard · API v3 limit/attribute filtering · OTTL delete-matching-values · full unit test coverage |
+| **Kubernetes** | [`#137398`](https://github.com/kubernetes/kubernetes/pull/137398) | Goroutine hot-loop fix in `client-go` `StartEventWatcher` — merged into **v1.36** |
+| **Kubernetes** | [`#137999`](https://github.com/kubernetes/kubernetes/pull/137999) | Fix for kubelet cgroup-resize nil-pointer panic |
+| **OpenTelemetry** | [`#46506`](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/46506) | Parse-time AST constant folding for pure OTTL functions — removes redundant per-datapoint evaluation in the collector hot path |
+| **Jaeger** | _multiple_ | MaxTraceSize OOM safeguard · API v3 limit/attribute filtering · OTTL delete-matching-values |
 
-**GSoC 2026 · Proposed across 3 CNCF orgs:** Jaeger AI Skills Framework · Kubeflow OTel Integration · Meshery AI Adapter
+<!-- TODO — Jaeger: replace "multiple" with the specific merged PR links, same as
+     the rows above. Linked, merged PRs read as far more credible, and it lets a
+     reviewer verify each one. Drop anything that was closed without merging. -->
 
----
+## Experience
 
-## 💼 Experience
+**SDE Intern — AlgoUniversity (YC S21)** &nbsp;·&nbsp; May–Jul 2025 &nbsp;·&nbsp; Hyderabad
+- Built a cloud-native online judge on Kubernetes serving 50+ daily users
+- Redis Streams evaluation pipeline — **5× throughput** over the sequential baseline
+- Per-submission sandboxing with Docker + cgroups + SECCOMP; JWT / OAuth 2.0 / RBAC auth; zero-downtime CI/CD on AWS
 
-<table>
-<tr>
-<td width="55%" valign="top">
+**McKinsey Forward — Leadership Fellow** &nbsp;·&nbsp; Aug 2025 – Present &nbsp;·&nbsp; Remote
+- Structured problem-solving (MECE, hypothesis-driven) applied to ambiguous engineering decisions, with Python dashboards and automation
 
-### SDE Intern · AlgoUniversity (YC S21)
-`May 2025 – Jul 2025 · Hyderabad`
+## Selected Work
 
-- Cloud-native Online Judge on **Kubernetes** — 50+ DAU
-- **Redis Streams** eval pipeline → **5× throughput** over sequential baseline
-- **Docker + cgroups + SECCOMP** per-submission sandboxing
-- JWT + OAuth 2.0 + RBAC auth layer
-- Zero-downtime CI/CD on **AWS**
+**GitLab Knowledge AI** — [repository](https://github.com/Rajneesh180/gitlab-knowledge-ai)
+Production RAG over the GitLab Handbook. Dual-path **FAISS + BM25** retrieval with reciprocal rank fusion, **Llama 3.3 70B** via Groq, heading-aware chunking, and sub-200 ms retrieval with no external calls in the search path.
 
-</td>
-<td width="45%" valign="top">
+**API Health Monitor** — [repository](https://github.com/Rajneesh180/api-health-monitor)
+Concurrent endpoint health-checker in pure Go. Retry logic, timeout propagation, and bounded-latency execution under load — zero external dependencies.
 
-### McKinsey Forward Leadership Fellow
-`Aug 2025 – Present · Remote`
+**Premium Online Judge** — [repository](https://github.com/Rajneesh180/Premium-Online-Judge)
+Full-stack competitive-programming platform. Kubernetes-native, with a Redis Streams evaluation pipeline and Docker + cgroups + SECCOMP sandboxing; live contests, leaderboards, and a rating system.
 
-- MECE + hypothesis-driven analytical frameworks
-- Python dashboards and automation workflows
-- Decision decomposition on ambiguous, high-stakes engineering scenarios
+## Tech
 
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 GitLab Knowledge AI
-> Production-grade RAG system over the GitLab Handbook — dual-path retrieval, SSE streaming, sub-200 ms latency
-
-[![Repo](https://img.shields.io/badge/GitHub-gitlab--knowledge--ai-181717?style=flat-square&logo=github)](https://github.com/Rajneesh180/gitlab-knowledge-ai)
-[![Live](https://img.shields.io/badge/Live-HuggingFace%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
-
-| Layer | Detail |
+| | |
 |---|---|
-| Retrieval | Dual-path **FAISS + BM25** with Reciprocal Rank Fusion (k=60) |
-| Generation | **Llama 3.3 70B** via Groq · SSE streaming · 0–100 confidence scoring |
-| Chunking | Heading-aware (350–500 tokens) · 10-rule generation protocol |
-| Latency | **Sub-200 ms** retrieval · zero external API calls in search path |
-| Infra | Single Docker multi-stage image (Node 20 + Python 3.9) · admin analytics · live re-ingestion |
+| **Languages** | Go · Python · C++ · TypeScript |
+| **Infra & Cloud** | Kubernetes · Docker · Terraform · AWS · Linux |
+| **Backend & Data** | Node.js · FastAPI · Redis · PostgreSQL · MongoDB |
+| **Observability** | OpenTelemetry · Jaeger · Grafana |
 
----
+## Competitive Programming
 
-### ⚡ API Health Monitor
-> Concurrent endpoint health-checking engine — retry logic, timeout propagation, bounded-latency execution
+LeetCode **Knight**, 1200+ problems solved. Live profile below.
 
-[![Repo](https://img.shields.io/badge/GitHub-api--health--monitor-181717?style=flat-square&logo=github)](https://github.com/Rajneesh180/api-health-monitor)
-![Stack](https://img.shields.io/badge/Go-Concurrency-00ADD8?style=flat-square&logo=go&logoColor=white)
+<img src="https://leetcard.jacoblin.cool/rehsaan90?theme=dark&font=JetBrains+Mono&ext=heatmap" width="460"/>
 
-- Native Go concurrency for parallel monitoring with zero external dependencies
-- Retry + timeout propagation ensuring bounded-latency under load
+Flipkart GRiD — cleared Round 3 &nbsp;·&nbsp; AlgoUniversity Camp — top 0.5% nationally
 
----
+## Thesis — Deep RL for UAV-Assisted IoT Data Collection
 
-### ⚙️ Premium Online Judge
-> Full-stack competitive programming platform — Kubernetes-native, Redis-streamed, Docker-sandboxed
+*UAV-Assisted Obstacle-Aware Data Collection for Resource-Constrained IoT Networks* — Supervisor: Dr. Ankur Jaiswal, ABV-IIITM Gwalior
 
-[![Repo](https://img.shields.io/badge/GitHub-Premium--Online--Judge-181717?style=flat-square&logo=github)](https://github.com/Rajneesh180/Premium-Online-Judge)
+- **Policy** — PPO agent (continuous control) over a D3QN baseline; state encodes UAV pose, residual energy, obstacle proximity, and rendezvous-visit vector
+- **Coverage** — greedy dominating-set selection compresses 20 rendezvous points to 7 (**~65%**) at full node coverage
+- **Routing** — visibility-graph planning yields collision-free paths (~2566 m, ~9.2% battery) around cuboid obstacles
 
-- cgroups + SECCOMP sandbox · Redis Streams decoupled eval pipeline
-- Live contests · leaderboards · submission analytics · rating system
+<!-- TODO — only you can confirm these two:
+     1) If PPO + set-attention is your FINAL model, name it and lead with the
+        headline metric (e.g. mean mission score 0.725 across 240 rollouts).
+        A concrete number beats "agent for adaptive optimisation".
+     2) Verify obstacle heights vs UAV cruise altitude are consistent in the
+        final sim — "obstacle-aware" only holds if obstacles intersect the
+        flight path. I used neutral wording so nothing here contradicts itself;
+        add exact heights once confirmed. -->
 
----
+## GitHub Activity
 
-## 🏆 Competitive Programming
+<!-- Live — these refresh from your profile on every page load.
+     Note: github-readme-stats is the shared public instance and occasionally
+     rate-limits; count_private only counts private commits if you self-host it
+     with a PAT (a short Vercel deploy). -->
 
-<p align="center">
-  <a href="https://leetcode.com/u/rehsaan90">
-    <img src="https://leetcard.jacoblin.cool/rehsaan90?theme=dark&font=JetBrains+Mono&ext=heatmap" width="480"/>
-  </a>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajneesh180&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajneesh180&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 
-```
-📌  LeetCode       Knight · 1200+ solved · 88% acceptance · 365-day streak
-📌  Flipkart GRiD  Round 3 cleared
-📌  AlgoU Camp     Top 0.5% nationally
-```
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajneesh180&bg_color=0d1117&color=00B4D8&line=0e75b6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
----
+## Writing
 
-## 🎓 B.Tech Thesis
-
-> **UAV-Assisted Obstacle-Aware Data Collection for Resource-Constrained IoT Networks**  
-> `Supervisor: Dr. Ankur Jaiswal · ABV-IIITM Gwalior`
-
-- 800×600 m IoT deployment — 20 nodes, 3 cuboid obstacles (heights 128–148 m > UAV altitude 100 m)
-- Greedy dominating-set selection → **65% node compression** (20 → 7 stops, 100% coverage)
-- Visibility-graph routing → collision-free paths (~2566 m, 9.2% battery)
-- **D3QN agent** for adaptive path optimisation — state encodes UAV pose, residual energy, obstacle proximity, RP visit vector
-- **PPO** as continuous-action extension
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,python,ts,nodejs,fastapi,react,docker,kubernetes,aws,terraform,redis,postgres,mongodb,grafana,linux&perline=8&theme=dark"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<!-- Live streak (demolab — stable) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajneesh180&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-</p>
-
-<!-- Live profile summary cards (all 4 panels — stable, covers stars/commits/PRs/languages/productive time) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajneesh180&theme=tokyonight" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajneesh180&theme=tokyonight"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajneesh180&theme=tokyonight"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajneesh180&theme=tokyonight"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajneesh180&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
-<!-- Live contribution activity graph (stable) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajneesh180&bg_color=1a1b27&color=00B4D8&line=0e75b6&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity" width="100%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Rajneesh180/Rajneesh180/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajneesh180/Rajneesh180/output/github-contribution-grid-snake.svg">
-    <img width="100%" src="https://raw.githubusercontent.com/Rajneesh180/Rajneesh180/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-## ✍️ Technical Writing
-
-Published on **Medium** · System Design · Advanced DSA · Distributed Systems · SOLID · Caching · Graph Algorithms
+I write on [Medium](https://medium.com/@rajneeshrehsaan48) about the engineering work and projects I'm exploring.
 
 <a href="https://medium.com/@rajneeshrehsaan48">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajneeshrehsaan48/0" width="100%"/>
 </a>
 
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/rajneesh-chaudhary-37632a1b7">
-    <img src="https://img.shields.io/badge/LinkedIn-Rajneesh%20Chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@rajneeshrehsaan48">
-    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/rehsaan90">
-    <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<!-- This widget surfaces your MOST RECENT post. Your published mix is broad
+     (project writeups alongside general essays), so I kept the framing as
+     "Writing" rather than claiming a specific technical-topic list. -->
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0d1117&height=100&section=footer" width="100%"/>
-
-<p align="center"><i>"If it scales — it succeeds. Build with impact, not just intent."</i></p>
+<sub><i>If it scales, it succeeds — build with impact, not just intent.</i></sub>
