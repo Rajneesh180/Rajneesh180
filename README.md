@@ -4,7 +4,7 @@
 
 **Backend & Distributed Systems Engineer** &nbsp;·&nbsp; CNCF Contributor (Kubernetes · OpenTelemetry · Jaeger)
 
-Final-year IT @ ABV-IIITM Gwalior. I build Kubernetes-native services, observability tooling, and GenAI retrieval systems — infrastructure that has to hold up in production.
+Graduated IT @ ABV-IIITM Gwalior. I build Kubernetes-native services, observability tooling, and GenAI retrieval systems — infrastructure that has to hold up in production.
 
 [![Open to roles](https://img.shields.io/badge/Open%20to-Backend%20%2F%20Infra%20Roles%202026-2ea44f?style=flat-square)](#)
 &nbsp;
